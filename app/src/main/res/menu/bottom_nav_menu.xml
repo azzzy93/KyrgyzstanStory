@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kg_story"
+        android:icon="@drawable/story"
+        android:title="@string/story" />
+
+    <item
+        android:id="@+id/kg_region"
+        android:icon="@drawable/place"
+        android:title="@string/region" />
+
+    <item
+        android:id="@+id/kg_phone_number_code"
+        android:icon="@drawable/phone"
+        android:title="@string/code" />
+
+</menu>
